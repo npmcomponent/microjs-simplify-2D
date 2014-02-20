@@ -1,4 +1,4 @@
-var simplify = require('simplify-base');
+var simplify = require('microjs-simplify-base');
 
 /**
  * square distance between 2 points

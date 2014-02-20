@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [microjs/simplify-2d](http://github.com/microjs/simplify-2d). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/microjs-simplify-2d`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 [![Build Status](https://secure.travis-ci.org/microjs/simplify-2D.png?branch=master)](https://travis-ci.org/microjs/simplify-2D)
 # simplify-2D
 
